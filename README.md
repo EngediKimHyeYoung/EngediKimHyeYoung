@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Engedicampus
-- 👀 I’m interested in Metaverse
+- 👀 I’m interested in Metaverse, VR, Ar...
 - 🌱 I’m currently learning Metaverse
-- 📫 How to reach me: engedi2019@gmail.com
+- 📫 How to reach me: lifelovepeople@gmail.com
 - ✨ Engedicampus: https://www.engedi.kr/
 
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
