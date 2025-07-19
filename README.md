@@ -21,10 +21,10 @@
 <br>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square/>
+<img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square"/>
 <img src="https://img.shields.io/badge/Adobe Lightroom Classic-31A8FF?style=flat-square"/>
 <br>
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square/>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Adobe Audition-9999FF?style=flat-square"/>
 
