@@ -20,13 +20,13 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square&logo=Adobe InDesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Lightroom Classic-31A8FF?style=flat-square&logo=Adobe Lightroom Classic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square/>
+<img src="https://img.shields.io/badge/Adobe Lightroom Classic-31A8FF?style=flat-square"/>
 <br>
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Audition-9999FF?style=flat-square&logo=Adobe Audition&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square/>
+<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Adobe Audition-9999FF?style=flat-square"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEngedicampus&count_bg=%23CF29D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
