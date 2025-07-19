@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/Adobe Audition-9999FF?style=flat-square"/>
 <br>
 <img src="https://img.shields.io/badge/googledocs-4285F4?style=flat-square&logo=googledocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/googlesheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
 <img src="https://img.shields.io/badge/googledrive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/>
 
 <!---
