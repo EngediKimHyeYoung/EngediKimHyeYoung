@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=Roblox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/googleplay-414141?style=flat-square&logo=googleplay&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat-square"/>
