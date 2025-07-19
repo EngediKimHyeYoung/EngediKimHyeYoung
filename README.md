@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square"/>
