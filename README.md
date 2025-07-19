@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=Roblox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square"/>
