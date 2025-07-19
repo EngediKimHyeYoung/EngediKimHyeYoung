@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square"/>
