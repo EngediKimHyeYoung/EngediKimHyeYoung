@@ -19,8 +19,7 @@
 <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=Roblox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square&logo=Adobe InDesign&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Lightroom Classic-31A8FF?style=flat-square&logo=Adobe Lightroom Classic&logoColor=white"/>
